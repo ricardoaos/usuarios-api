@@ -1,0 +1,15 @@
+/Users/rogeriobatista/Documents/Projects/users/Users.Generics/bin/Debug/netcoreapp3.0/Users.Generics.deps.json
+/Users/rogeriobatista/Documents/Projects/users/Users.Generics/bin/Debug/netcoreapp3.0/Users.Generics.dll
+/Users/rogeriobatista/Documents/Projects/users/Users.Generics/bin/Debug/netcoreapp3.0/Users.Generics.pdb
+/Users/rogeriobatista/Documents/Projects/users/Users.Generics/obj/Debug/netcoreapp3.0/Users.Generics.AssemblyInfoInputs.cache
+/Users/rogeriobatista/Documents/Projects/users/Users.Generics/obj/Debug/netcoreapp3.0/Users.Generics.AssemblyInfo.cs
+/Users/rogeriobatista/Documents/Projects/users/Users.Generics/obj/Debug/netcoreapp3.0/Users.Generics.dll
+/Users/rogeriobatista/Documents/Projects/users/Users.Generics/obj/Debug/netcoreapp3.0/Users.Generics.pdb
+C:\Users\ricar\OneDrive\Documentos\users-master\Users.Generics\bin\Debug\netcoreapp3.0\Users.Generics.deps.json
+C:\Users\ricar\OneDrive\Documentos\users-master\Users.Generics\bin\Debug\netcoreapp3.0\Users.Generics.dll
+C:\Users\ricar\OneDrive\Documentos\users-master\Users.Generics\bin\Debug\netcoreapp3.0\Users.Generics.pdb
+C:\Users\ricar\OneDrive\Documentos\users-master\Users.Generics\obj\Debug\netcoreapp3.0\Users.Generics.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Documentos\users-master\Users.Generics\obj\Debug\netcoreapp3.0\Users.Generics.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Documentos\users-master\Users.Generics\obj\Debug\netcoreapp3.0\Users.Generics.dll
+C:\Users\ricar\OneDrive\Documentos\users-master\Users.Generics\obj\Debug\netcoreapp3.0\Users.Generics.pdb
+C:\Users\ricar\OneDrive\Documentos\users-master\Users.Generics\obj\Debug\netcoreapp3.0\Users.Generics.csprojAssemblyReference.cache
