@@ -38,7 +38,7 @@ namespace Users.Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-                        
+
             services.AddDbContext<UsersDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("UsersDatabase")));
 
             // configure strongly typed settings objects
@@ -81,7 +81,7 @@ namespace Users.Api
             }
 
             app.UseHttpsRedirection();
-
+           
             app.UseRouting();
 
             app.UseAuthentication();

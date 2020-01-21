@@ -281,10 +281,7 @@ C:\Users\ricar\OneDrive\Documentos\users-master\Users.Api\obj\Debug\netcoreapp3.
 C:\Users\ricar\OneDrive\Documentos\users-master\Users.Api\obj\Debug\netcoreapp3.0\Users.Api.csproj.CopyComplete
 C:\Users\ricar\OneDrive\Documentos\users-master\Users.Api\obj\Debug\netcoreapp3.0\Users.Api.dll
 C:\Users\ricar\OneDrive\Documentos\users-master\Users.Api\obj\Debug\netcoreapp3.0\Users.Api.pdb
-C:\Users\ricar\OneDrive\Documentos\users-master\Users.Api\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
-C:\Users\ricar\OneDrive\Documentos\users-master\Users.Api\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
-C:\Users\ricar\OneDrive\Documentos\users-master\Users.Api\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\ricar\OneDrive\Documentos\users-master\Users.Api\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.dll
+C:\Users\ricar\OneDrive\Documentos\users-master\Users.Api\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
 C:\Users\ricar\OneDrive\Documentos\users-master\Users.Api\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\ricar\OneDrive\Documentos\users-master\Users.Api\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\ricar\OneDrive\Documentos\users-master\Users.Api\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
